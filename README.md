@@ -36,6 +36,10 @@ Además, **las cartas de personaje incrementaran la valoración de tu startup en
 
 Las cartas de personaje se situarán en la mesa frente al jugador al que pertenezcan y se mantendrán durante toda la partida. Si por alguún lance del juego una de estas cartas fuera eliminada, iría a la pila de descartes.
 
+#### Unicornios
+
+**Todos los personajes tienen una categoría (Bisnes, Tech y Ops)**. Los personajes marcados como 'Unicornios' pueden elegir su categoría en cada momento, dependiendo de lo que más les interese.
+
 
 ## Jugar una carta de infraestructura
 
@@ -43,9 +47,12 @@ Las cartas de personaje se situarán en la mesa frente al jugador al que pertene
 
 ## Jugar una carta de acción
 
-**Las cartas de acción pueden jugarse sobre tu propia startup o las de los otros jugadores**. Como el resto de las cartas, deben ser jugadas en tu turno, pero OJOCUIDAO: **las cartas de acción marcadas con un relampago pueden jugarse en cualquier momento de la partida, estés en tu turno o no**. Eso si, sólo puedes jugar una carta de acción en cada turno, tuyo o de otro.
+**Las cartas de acción pueden jugarse sobre tu propia startup o las de los otros jugadores**. Como el resto de las cartas, deben ser jugadas en tu turno, pero OJOCUIDAO: **las cartas de acción marcadas con un relampago pueden jugarse en cualquier momento de la partida, estés en tu turno o no**. Eso si, sólo puedes jugar una carta de acción marcada con relampago por turno, tuyo o de otro.
 
 Las cartas de acción siempre se llevan a la pila de descartes después de jugarse.
+
+
+
 
 
 
