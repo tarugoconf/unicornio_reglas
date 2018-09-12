@@ -1,6 +1,6 @@
 <h1 align="center">¡Unicornio! El juego de cartas</h1> <br>
 <p align="center">
-    <img alt="Unicornio" title="Manfred" src="" width="200">
+    <img alt="Unicornio" title="Manfred" src="https://github.com/tarugoconf/unicornio_reglas/blob/master/header.png?raw=true" width="200">
 </p>
 
 Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado en exclusiva para la [#tarugo3](https://www.tarugoconf.com/).
@@ -117,10 +117,3 @@ Muchas gracias a todos los que hicieron posible que una locura como ¡Unicornio!
 
 
 **Hecho con ❤️ y (poco) sentidiño en Galicia, Bizkaia, Madriz y Huelva**.
-
-
-
-
-
-
-
