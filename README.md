@@ -30,7 +30,12 @@ En cualquier caso, **una vez haya realizado su acción, el jugador cogerá una c
 
 ## Jugar una carta de personaje
 
-TBD
+Las cartas de personaje pueden jugarse como CEO o como *currito*. Cuando un jugador juega una carta de personaje desde su mano se jugará siempre en Modo Currito. **Si el currito tiene alguna habilidad especial, descrita bajo su nombre, se ejecutará en ese momento y sólo en ese momento, excepto que esta sea permanente**. Dichas habilidades NO se ejecutarán en el caso de que estos lleguen a tu startup sustituyendo a otros o siendo elegidos directamente de tu mazo.
+
+Además, **las cartas de personaje incrementaran la valoración de tu startup en XXX millones que se sumarán al final de turno** para comprobar si has alcanzado el status de "unicornio" (1.000 millones) y, por tanto, ganado la partida. 
+
+Las cartas de personaje se situarán en la mesa frente al jugador al que pertenezcan y se mantendrán durante toda la partida. Si por alguún lance del juego una de estas cartas fuera eliminada, iría a la pila de descartes.
+
 
 ## Jugar una carta de infraestructura
 
