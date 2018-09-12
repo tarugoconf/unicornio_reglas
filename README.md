@@ -39,11 +39,14 @@ Las cartas de personaje se situarán en la mesa frente al jugador al que pertene
 
 ## Jugar una carta de infraestructura
 
-TBD
+**Las cartas de infraestructura sólo pueden jugarse sobre tu propia startup** y, al igual que las cartas de personajes, estas se mantienen en el juego hasta que sean destruidas en cuyo caso deben llevarse a la pila de descartes.
 
 ## Jugar una carta de acción
 
-TBD
+**Las cartas de acción pueden jugarse sobre tu propia startup o las de los otros jugadores**. Como el resto de las cartas, deben ser jugadas en tu turno, pero OJOCUIDAO: **las cartas de acción marcadas con un relampago pueden jugarse en cualquier momento de la partida, estés en tu turno o no**. Eso si, sólo puedes jugar una carta de acción en cada turno, tuyo o de otro.
+
+Las cartas de acción siempre se llevan a la pila de descartes después de jugarse.
+
 
 
 
