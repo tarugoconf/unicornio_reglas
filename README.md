@@ -51,6 +51,14 @@ Las cartas de personaje se situarán en la mesa frente al jugador al que pertene
 
 Las cartas de acción siempre se llevan a la pila de descartes después de jugarse.
 
+# Fin de turno
+
+Cuando un jugador vaya a finalizar su turno debe anunciarlo y, después, coger una carta de su mazo. Una vez que un jugador haya cogido carta de su mazo, las posibles cartas de acción que se ejecuten se imputarán al siguiente turno.
+
+# Fin de la partida.
+
+La partida acaba cuando, al final de un turno, la startup de un jugador tiene una valoración igual o superior a 1.000 millones o si el resto de jugadores han agotado las cartas de su mazo.
+
 
 
 
