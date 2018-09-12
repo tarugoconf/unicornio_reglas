@@ -56,7 +56,7 @@ Además, **las cartas de personaje incrementaran la valoración de tu startup en
 
 Las cartas de personaje se situarán en la mesa frente al jugador al que pertenezcan y se mantendrán durante toda la partida. Si por alguún lance del juego una de estas cartas fuera eliminada, iría a la pila de descartes.
 
-##### Unicornios
+#### Unicornios
 
 **Todos los personajes tienen una categoría (Bisnes, Tech y Ops)**. Los personajes marcados como 'Unicornios' pueden elegir su categoría en cada momento, dependiendo de lo que más les interese.
 
