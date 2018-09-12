@@ -17,7 +17,28 @@ El mazo básico contiene **56 cartas**:
 1. Cada jugador debe barajar su mazo.
 1. Cada jugador debe coger 4 cartas al azar del mazo barajado del jugador que tenga a su derecha y dejarlas bocabajo frente a él, creando su 'pila de descartes'. Esas cartas no podrán utilizarse durante la partida.
 1. Cada jugador coge 5 cartas, evitando que el resto de participantes en la partida las vean.
+1. Deja su mazo, boca abajo, al lado de su 'pila de descartes'
 1. El jugador que haya empezado a trabajar en una startup más recientemente empieza la partida.
+
+# Partida
+
+La partida se juega por turnos hasta que un jugador consiga que su startup alcance una valoración de 1.000 millones al final de su turno o cuando el resto de jugadores se queden sin cartas para jugar. En ambos supuestos se convertirá en ganador y nuevo gurú estartapil.
+
+En su turno, un jugador puede realizar una de las dos acciones siguientes: **jugar una carta** o **coger una carta** de su mazo.
+
+En cualquier caso, **una vez haya realizado su acción, el jugador cogerá una carta de su mazo**, finalizando así su turno. Es decir, que el jugador puede coger hasta dos cartas en su turno si no realiza otra acción.
+
+## Jugar una carta de personaje
+
+TBD
+
+## Jugar una carta de infraestructura
+
+TBD
+
+## Jugar una carta de acción
+
+TBD
 
 
 
