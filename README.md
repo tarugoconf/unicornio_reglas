@@ -54,7 +54,7 @@ Las cartas de personaje pueden jugarse como CEO o como *currito*. Cuando un juga
 
 Además, **las cartas de personaje incrementaran la valoración de tu startup en XXX millones que se sumarán al final de turno** para comprobar si has alcanzado el status de "unicornio" (1.000 millones) y, por tanto, ganado la partida. 
 
-Las cartas de personaje se situarán en la mesa frente al jugador al que pertenezcan y se mantendrán durante toda la partida. Si por alguún lance del juego una de estas cartas fuera eliminada, iría a la pila de descartes.
+Las cartas de personaje se situarán en la mesa frente al jugador al que pertenezcan y se mantendrán durante toda la partida. Si por algún lance del juego una de estas cartas fuera eliminada, iría a la pila de descartes.
 
 #### Unicornios
 
