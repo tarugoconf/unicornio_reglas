@@ -84,6 +84,11 @@ La partida acaba cuando, al final de un turno, la startup de un jugador tiene un
 
 Los jugadores más hardcore pueden añadir un punto más de locura y aleatoriedad al juego, con el "Modo Awesómico". En el mismo, cada vez que se complete una ronda (cuando todos los jugadores completen sus turnos de juego) o cuando una startup alcance la valoración de 1.000 millones de jeroclos, se introducirá un evento aleatorio en el juego mediante el uso de la app "¡Unicornio!" disponible tanto en la [AppStore](https://apps.apple.com/es/app/unicornio/id1483220208?l=es&ls=1) como en [Google Play](https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419).
 
+<p align="center">
+   <a href="https://apps.apple.com/es/app/unicornio/id1483220208?l=es&ls=1" target="_blank"><img alt="Unicornio" title="Manfred" src="apple-appstore-badge.png?raw=true" height="42"></a>
+   <a href="https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419" target="_blank"><img alt="Unicornio" title="Manfred" src="google-play-badge.png?raw=true" height="52"></a>
+</p>
+
 ## Cómo proponer un cambio
 
 Si quieres proponer algún cambio, te animamos a que hagas un *fork* de este repositorio y, después -si crees que has introducido modificaciones que podrían mejorar la experiencia de juego- [crea un pull request de tu fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
