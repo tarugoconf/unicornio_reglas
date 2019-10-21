@@ -86,7 +86,7 @@ Los jugadores más hardcore pueden añadir un punto más de locura y aleatorieda
 
 <p align="center">
    <a href="https://apps.apple.com/es/app/unicornio/id1483220208?l=es&ls=1" target="_blank"><img alt="Unicornio" title="Manfred" src="apple-appstore-badge.png?raw=true" height="42"></a>
-   <a href="https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419" target="_blank"><img alt="Unicornio" title="Manfred" src="google-play-badge.png?raw=true" height="52"></a>
+   <a href="https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419" target="_blank"><img alt="Unicornio" title="Manfred" src="new-google-play-badge.png?raw=true" height="42"></a>
 </p>
 
 ## Cómo proponer un cambio
