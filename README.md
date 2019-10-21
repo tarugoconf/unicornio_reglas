@@ -13,7 +13,7 @@ Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado e
 - [Partida](#partida)
 - [Fin de turno](#fin-de-turno)
 - [Fin de la partida](#fin-de-la-partida)
-- [Modo Awesómico] (#modo-awesómico)
+- [Modo Awesómico](#modo-awesómico)
 - [Cómo proponer un cambio](#cómo-proponer-un-cambio)
 - [Change Log](#change-log)
 - [Autores](#autores)
