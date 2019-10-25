@@ -3,7 +3,7 @@
     <img alt="Unicornio" title="Manfred" src="https://github.com/tarugoconf/unicornio_reglas/blob/master/header.png?raw=true" width="200">
 </p>
 
-Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado en exclusiva para la [#tarugo3](https://www.tarugoconf.com/).
+Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado en exclusiva para la [Tarugoconf](https://www.tarugoconf.com/).
 
 ## Índice
 
@@ -13,6 +13,7 @@ Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado e
 - [Partida](#partida)
 - [Fin de turno](#fin-de-turno)
 - [Fin de la partida](#fin-de-la-partida)
+- [Modo Awesómico](#modo-awesómico)
 - [Cómo proponer un cambio](#cómo-proponer-un-cambio)
 - [Change Log](#change-log)
 - [Autores](#autores)
@@ -20,7 +21,7 @@ Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado e
 
 ## Objetivo del juego
 
-Acabas de fundar una nueva startup y **tu objetivo es hacer que se convierta en el nuevo "unicornio", alcanzando una valoración de 1.000 millones de dolares**. Para conseguirlo tendrás que reunir al mejor equipo posible, ser más rápido que tus rivales y, si hace falta, pasar por encima de ellos. Aquí hemos venido a jugar.
+Acabas de fundar una nueva startup y **tu objetivo es hacer que se convierta en el nuevo "unicornio", alcanzando una valoración de 1.000 millones de jeroclos**. Para conseguirlo tendrás que reunir al mejor equipo posible, ser más rápido que tus rivales y, si hace falta, pasar por encima de ellos. Aquí hemos venido a jugar.
 
 ## Contenido del mazo básico
 
@@ -79,6 +80,14 @@ Cuando un jugador vaya a finalizar su turno debe anunciarlo y, después, coger u
 
 La partida acaba cuando, al final de un turno, la startup de un jugador tiene una valoración igual o superior a 1.000 millones o si el resto de jugadores han agotado las cartas de su mazo.
 
+## Modo Awesómico
+
+Los jugadores más hardcore pueden añadir un punto más de locura y aleatoriedad al juego, con el "Modo Awesómico". En el mismo, cada vez que se complete una ronda (cuando todos los jugadores completen sus turnos de juego) o cuando una startup alcance la valoración de 1.000 millones de jeroclos, se introducirá un evento aleatorio en el juego mediante el uso de la app "¡Unicornio!" disponible tanto en la [AppStore](https://apps.apple.com/es/app/unicornio/id1483220208?l=es&ls=1) como en [Google Play](https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419).
+
+<p align="center">
+   <a href="https://apps.apple.com/es/app/unicornio/id1483220208?l=es&ls=1" target="_blank"><img alt="Unicornio" title="Manfred" src="apple-appstore-badge.png?raw=true" height="42"></a>
+   <a href="https://play.google.com/store/apps/details?id=com.bonillaware.unicorn&hl=es-419" target="_blank"><img alt="Unicornio" title="Manfred" src="new-google-play-badge.png?raw=true" height="42"></a>
+</p>
 
 ## Cómo proponer un cambio
 
@@ -89,13 +98,14 @@ Revisaremos los cambios y, si tienen sentido, los incorporaremos a la versión p
 ## Change Log
 
 * 0.1 Primera versión de reglas
+* 0.2 Incluye los eventos aleatorios que aporta la app "¡Unicornio!"
 
 
 ## Autores
 
 Este juego ha sido creado por:
 
-* [Jorge Barroso](https://twitter.com/flipper83), que definió la primera versión de las reglas y las cartas.
+* [Jorge Barroso](https://twitter.com/flipper83), que definió la primera versión de las reglas y las cartas y ha creado la app del juego.
 * [David Bonilla](https://twitter.com/david_bonilla), que creó la versión ¿definitiva? de las reglas y las cartas.
 * [Hugo Tobio](https://twitter.com/HugoTobio), que dibujó todas las ilustraciones del juego.
 
