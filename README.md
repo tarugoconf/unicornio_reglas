@@ -1,9 +1,9 @@
 <h1 align="center">¡Unicornio! El juego de cartas</h1> <br>
 <p align="center">
-    <img alt="Unicornio" title="Manfred" src="https://github.com/tarugoconf/unicornio_reglas/blob/master/header.png?raw=true" width="200">
+    <img alt="Unicornio" title="Manfred" src="https://github.com/tarugoconf/unicornio_reglas/blob/master/caja_unicornio3.jpeg?raw=true" height="300">
 </p>
 
-Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado en exclusiva para la [Tarugoconf](https://www.tarugoconf.com/).
+Estas son **las reglas básicas de "¡Unicornio!"**, el juego de cartas creado en exclusiva para la [TRGCON](https://www.trgcon.com/).
 
 ## Índice
 
@@ -59,8 +59,7 @@ Las cartas de personaje se situarán en la mesa frente al jugador al que pertene
 
 #### Unicornios
 
-**Todos los personajes tienen una categoría (Bisnes, Tech y Ops)**. Los personajes marcados como 'Unicornios' pueden elegir su categoría en cada momento, dependiendo de lo que más les interese.
-
+**Todos los personajes tienen una categoría (BISNES, TECH y OPS)**. Los personajes marcados como 'Unicornios' pueden elegir su categoría en cada momento, dependiendo de lo que más les interese.
 
 ### Jugar una carta de infraestructura
 
@@ -99,6 +98,7 @@ Revisaremos los cambios y, si tienen sentido, los incorporaremos a la versión p
 
 * 0.1 Primera versión de reglas
 * 0.2 Incluye los eventos aleatorios que aporta la app "¡Unicornio!"
+* 0.3 Revisión de reglas para la versión 3.0 (2025)
 
 
 ## Autores
